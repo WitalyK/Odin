@@ -1,3 +1,3 @@
 # On ODIN
 
-[*This my firs project on Odin*](https://www.theodinproject.com)
+[*This is my firs project on Odin*](https://www.theodinproject.com)
